@@ -37,6 +37,6 @@ This project focuses on the development of a robotic fruit plucking system desig
 
 ## Author
 
-Jishnu Guttula
-Mechanical Engineering
+Jishnu Guttula,
+Mechanical Engineering,
 St. Martin’s Engineering College
